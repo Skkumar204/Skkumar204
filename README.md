@@ -1,4 +1,4 @@
-![logo](https://github.com/Skkumar204/Skkumar204/blob/main/banner.png)
+![logo](https://github.com/Skkumar204/Skkumar204/blob/main/node.webp)
 <h1 align="center">Hi 👋, I'm Sakthikumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
