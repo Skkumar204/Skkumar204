@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Js**
 
 - 📫 How to reach me **2015043@nec.edu.in**
 
